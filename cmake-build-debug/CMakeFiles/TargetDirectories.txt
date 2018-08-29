@@ -1,0 +1,10 @@
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/emulator.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/copy.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/send.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/copy_vpk.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/switch_sd2vita.vpk.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/eboot.bin.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/send_vpk.dir
+/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/CMakeFiles/switch_sd2vita.dir

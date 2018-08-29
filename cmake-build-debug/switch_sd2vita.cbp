@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="switch_sd2vita"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\vitasdk\;CMake Files\..\..\..\..\usr\local\vitasdk\share\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="emulator">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 emulator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 copy"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="send">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 send"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_vpk">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 copy_vpk"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="switch_sd2vita.vpk">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 switch_sd2vita.vpk"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eboot.bin">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 eboot.bin"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="send_vpk">
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 send_vpk"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="switch_sd2vita">
+				<Option output="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/switch_sd2vita" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/../common"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include/c++/7.3.0"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include/c++/7.3.0/arm-vita-eabi"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include/c++/7.3.0/backward"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/include"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/include-fixed"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 switch_sd2vita"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="switch_sd2vita/fast">
+				<Option output="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/switch_sd2vita" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/../common"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include/c++/7.3.0"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include/c++/7.3.0/arm-vita-eabi"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include/c++/7.3.0/backward"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/include"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/include-fixed"/>
+					<Add directory="/usr/local/vitasdk/bin/../lib/gcc/arm-vita-eabi/7.3.0/../../../../arm-vita-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 switch_sd2vita/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/src/Engine.cpp">
+			<Option target="switch_sd2vita"/>
+		</Unit>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/src/File.cpp">
+			<Option target="switch_sd2vita"/>
+		</Unit>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/src/Menu.cpp">
+			<Option target="switch_sd2vita"/>
+		</Unit>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/src/main.cpp">
+			<Option target="switch_sd2vita"/>
+		</Unit>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/../../../../usr/local/vitasdk/share/vita.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\vitasdk\share\"/>
+		</Unit>
+		<Unit filename="/Users/ouajdibelhaj/CLionProjects/SwitchSD2VitaMod/../../../../usr/local/vitasdk/share/vita.toolchain.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\vitasdk\share\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
